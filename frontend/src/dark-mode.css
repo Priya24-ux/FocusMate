@@ -1,0 +1,12 @@
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+/* Make sure buttons, links, and text remain visible */
+.dark-mode a,
+.dark-mode h1,
+.dark-mode p {
+    color: white !important;
+}

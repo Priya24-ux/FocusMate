@@ -1,0 +1,31 @@
+/* Add custom styles for DashboardPage */
+.container {
+    max-width: 800px;
+    margin-top: 40px;
+}
+
+h2,
+h3 {
+    color: #333;
+}
+
+input[type="text"] {
+    font-size: 16px;
+    padding: 10px;
+}
+
+button {
+    font-size: 16px;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
+
+.list-group-item button {
+    margin-left: 5px;
+}
+
+.list-group-item .btn-sm {
+    padding: 5px 10px;
+}
